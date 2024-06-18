@@ -13,6 +13,6 @@ Currently, two official plugins are available:
 Este repositório armazena uma tela simples de login que utiliza um template e a biblioteca React do JS. Nesta aplicação eu pude aprender um pouco mais como usar o React como ferramenta Front-end para novos projetos. 
 
 
-### Download da tela
+### Execução da tela de login 
 
-O donwload não precisa de nenhum programa para ser rodado. Apenas que o usuário abra o terminal, acesse a pasta onde os arquivos estão e digite: npm run dev. Isso irá gerar o link que abrirá a aplicação no navegador.
+A pequena aplicação baixada precisará que o usuário abra o terminal, acesse a pasta onde os arquivos estão e digite: npm run dev. Isso irá gerar o link que abrirá a aplicação no navegador.

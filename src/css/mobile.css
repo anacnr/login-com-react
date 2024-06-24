@@ -24,7 +24,7 @@ width: 100%; height: 100%;
     } 
 
     @keyframes title {
-    0% {color: rgb(252, 149, 14); font-size: 2em; padding-top: 15%;} 25% {color: rgb(253, 213, 149);} 50% { color: rgb(250, 243, 225);}100% {color: var(--font-color);}
+    0% {color: rgb(247, 66, 42); font-size: 2em; padding-top: 15%;} 25% {color:rgb(239, 135, 31);} 50% { color: rgb(244, 192, 107);}100% {color: var(--font-color);}
     }
 
     div > #login > form{
@@ -71,7 +71,7 @@ width: 100%; height: 100%;
     } 
 
     @keyframes title {
-    0% {color: rgb(252, 149, 14); font-size: 2em; padding-top: 15%;} 25% {color: rgb(253, 213, 149);} 50% { color: rgb(250, 243, 225);}100% {color: var(--font-color);}
+    0% {color: rgb(247, 66, 42); font-size: 2em; padding-top: 15%;} 25% {color:rgb(239, 135, 31);} 50% { color: rgb(244, 192, 107);}100% {color: var(--font-color);}
     }
 
     div > #login > form{

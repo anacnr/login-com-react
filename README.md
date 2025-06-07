@@ -16,3 +16,5 @@ Este repositório armazena uma tela simples de login que utiliza um template e a
 ### Execução da tela de login 
 
 A pequena aplicação baixada precisará que o usuário abra o terminal, acesse a pasta onde os arquivos estão e digite: npm run dev. Isso irá gerar o link que abrirá a aplicação no navegador.
+
+### Utilizei AI para auxiliar no design e na construção deste projeto.
